@@ -6,7 +6,7 @@
 
 import React from 'react';
 import { View } from 'react-native';
-import { FormData, FormErrors } from '@/types/form';
+import { FormData, FormErrors } from '@/types/cadastroForm';
 import LabeledInput from './LabeledInput';
 import FormSection from './FormSection';
 

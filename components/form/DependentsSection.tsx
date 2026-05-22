@@ -7,7 +7,7 @@
 import React from 'react';
 import { View, Text, StyleSheet, TouchableOpacity } from 'react-native';
 import { Plus, Trash2 } from 'lucide-react-native';
-import { Dependent, FormErrors } from '@/types/form';
+import { Dependent, FormErrors } from '@/types/cadastroForm';
 import { COLORS } from '@/constants/colors';
 import LabeledInput from './LabeledInput';
 import { formatCPF, formatDate } from '@/utils/formatters';

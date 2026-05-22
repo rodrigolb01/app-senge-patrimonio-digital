@@ -5,7 +5,7 @@
  */
 
 import { useState, useCallback } from 'react';
-import { FormData, FormErrors, Dependent } from '@/types/form';
+import { FormData, FormErrors, Dependent } from '@/types/cadastroForm';
 import {
   formatCPF,
   formatRG,

@@ -26,7 +26,7 @@ import {
   HeadingLevel,
   VerticalAlign,
 } from 'docx';
-import { FormData } from '@/types/form';
+import { FormData } from '@/types/cadastroForm';
 
 /* ── Colour constants matching SENGE-CE palette ───────────────────────── */
 const HEADER_BG = '4AABE0';   // Sky-blue section bars

@@ -6,7 +6,7 @@
 
 import React from 'react';
 import { View } from 'react-native';
-import { FormData, FormErrors, ESTADO_CIVIL_OPTIONS } from '@/types/form';
+import { FormData, FormErrors, ESTADO_CIVIL_OPTIONS } from '@/types/cadastroForm';
 import LabeledInput from './LabeledInput';
 import SelectPicker from './SelectPicker';
 import FormSection from './FormSection';

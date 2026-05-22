@@ -4,7 +4,7 @@
  * backend REST endpoint to update the member record in the database.
  */
 
-import { FormData } from '@/types/form';
+import { FormData } from '@/types/cadastroForm';
 import { generateAndDownloadDocx } from './docGenerator';
 import { Alert } from 'react-native';
 
